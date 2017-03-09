@@ -1,1 +1,1 @@
-<div className="button-primary"></div>;
+<div className="button-Primary"></div>;

@@ -1,3 +1,3 @@
-<div class="button-primary">
-    <i class="icon icon-arrow-right"></i>
+<div class="button-Primary">
+    <i class="icon icon-Arrow-Right"></i>
 </div>;
