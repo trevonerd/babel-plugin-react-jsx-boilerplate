@@ -1,4 +1,4 @@
-<div className="button-primary">
-    <i className="icon icon-arrow-right" />
+<div className="buttonPrimary">
+    <i className="icon iconArrowRight" />
 </div>;
 
